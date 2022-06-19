@@ -1,0 +1,4 @@
+1.exit
+2.search
+3.delete
+4.open
